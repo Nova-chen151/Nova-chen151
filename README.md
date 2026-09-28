@@ -103,7 +103,6 @@ Yuhang Chen, Jie Sun, Jialin Fan, Jian Sun
   </picture>
 </p>
 
----
 
 <!-- ONSITE_TIMELINE_HIDDEN_START
 ## 🛣️ OnSite Timeline
@@ -172,7 +171,6 @@ Yuhang Chen, Jie Sun, Jialin Fan, Jian Sun
 </p>
 
 ONSITE_TIMELINE_HIDDEN_END -->
----
 
 <p align="center">
   <img
