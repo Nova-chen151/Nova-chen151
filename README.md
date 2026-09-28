@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0%3A7AA2FF%2C55%3A8C8FF5%2C100%3A78C8E8&height=220&section=header&text=Yuhang%20Chen&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Generative%20Simulation%20%C2%B7%20Autonomous%20Driving%20%C2%B7%203D%20Reconstruction&descAlignY=58&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0%3A7AA2FF%2C55%3A8C8FF5%2C100%3A78C8E8&height=220&section=header&text=NOVAICHEN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Generative%20Simulation%20%C2%B7%20Autonomous%20Driving%20%C2%B7%203D%20Reconstruction&descAlignY=58&descSize=18"
     width="100%"
     alt="NOVAICHEN"
   />
@@ -34,15 +34,13 @@
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
   </a>
 
+  <a href="https://tops.tongji.edu.cn/info/1204/2565.htm">
+    <img src="https://img.shields.io/badge/Tongji%20TOPS-Homepage-7C3AED?style=for-the-badge&logo=homeassistant&logoColor=white" />
+  </a>
+
   <a href="https://github.com/Nova-chen151?tab=followers">
     <img src="https://img.shields.io/github/followers/Nova-chen151?label=Followers&style=for-the-badge&color=6366F1&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  🏫 <a href="https://tops.tongji.edu.cn/"><b>Tongji University · TOPS</b></a>
-  &nbsp;·&nbsp;
-  🏠 <a href="https://tops.tongji.edu.cn/info/1204/2565.htm"><b>Homepage</b></a>
 </p>
 
 <p align="center">
