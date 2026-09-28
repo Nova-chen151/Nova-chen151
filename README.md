@@ -84,6 +84,27 @@ Yuhang Chen, Jie Sun, Jialin Fan, Jian Sun
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Nova-chen151/Nova-chen151/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Nova-chen151/Nova-chen151/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution grid snake animation"
+      src="https://raw.githubusercontent.com/Nova-chen151/Nova-chen151/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+---
+
 ## 🛣️ OnSite Timeline
 
 过去三届 **OnSite 自动驾驶算法挑战赛** 中，我持续参与场景生成与测试相关技术工作，并围绕赛事逐步推进从规则仿真到生成式场景与策略测试的完整技术链路。
@@ -150,25 +171,6 @@ Yuhang Chen, Jie Sun, Jialin Fan, Jian Sun
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Nova-chen151/Nova-chen151/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Nova-chen151/Nova-chen151/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution grid snake animation"
-      src="https://raw.githubusercontent.com/Nova-chen151/Nova-chen151/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
 
 <p align="center">
   <img
