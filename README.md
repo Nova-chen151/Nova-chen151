@@ -40,6 +40,12 @@
 </p>
 
 <p align="center">
+  🏫 <a href="https://tops.tongji.edu.cn/"><b>Tongji University · TOPS</b></a>
+  &nbsp;·&nbsp;
+  🏠 <a href="https://tops.tongji.edu.cn/info/1204/2565.htm"><b>Homepage</b></a>
+</p>
+
+<p align="center">
   <b>让生成场景真正成为可信的自动驾驶测试。</b><br/>
   <sub>From generated scenes to trustworthy policy tests.</sub>
 </p>
@@ -55,7 +61,7 @@
 
 ## 👋 About Me
 
-你好，我的研究关注 **自动驾驶场景生成、三维场景重建与闭环仿真测试**，希望让真实驾驶数据与生成模型共同服务于驾驶策略的训练、测试和改进。
+你好，我是 **Yuhang Chen（陈宇航）**，目前在 **同济大学交通运输工程学院 TOPS 交通运行与仿真课题组** 开展研究。我的研究关注 **自动驾驶场景生成、三维场景重建与闭环仿真测试**，希望让真实驾驶数据与生成模型共同服务于驾驶策略的训练、测试和改进。
 
 - 🚗 **Generative Simulation & Policy Testing**：研究生成场景的交通合理性、策略响应与测试价值。
 - 🎥 **Video-to-Interactive Scene**：探索行车视频重建、长时序场景表示与闭环测试之间的连接。
