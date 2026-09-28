@@ -90,6 +90,10 @@ Me_HIDDEN_END -->
   <a href="https://www.onsite.com.cn/#/dist/rankingList3">
     <img src="https://img.shields.io/badge/OnSite-Leaderboard-F59E0B?style=flat-square&logo=trophy&logoColor=white" />
   </a>
+  
+  <a href="https://kns.cnki.net/kcms2/article/abstract?v=u5lPRpBnoljBoJvBrTdFyG0TmVUzaFi_XDHZapG10L4RSIYn1LeugYBtX-2lO4p4qpCRmMm-8gS3dGu9HtfrxTnmgldY3d1etMNULTG2ln0CW3QoDaHBBRPSYx7m5ZXigbA0pA-LFElDEgyu4mwc95IEN7CXTdEb0OMUTgdCwYLypvjKNVGH3NmKpi-77T7aoVLtTf6ralQ&uniplatform=NZKPT&captchaId=7ce3e3c0-49f8-4a23-aca5-cc369bf95704">
+    <img src="https://img.shields.io/badge/Paper-CNKI-F59E0B?style=flat-square&logo=trophy&logoColor=white" />
+  </a>
 
   <a href="https://github.com/Nova-chen151/VP-AutoTest-BV-Controller">
     <img src="https://img.shields.io/badge/Code-VP%20Testing-181717?style=flat-square&logo=github&logoColor=white" />
