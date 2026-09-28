@@ -57,10 +57,7 @@ Me_HIDDEN_END -->
 
 ## 📝 Selected Publications
 
-### CDPT · AAAI 2026
-
-**[Transferring Causal Driving Patterns for Generalizable Traffic Simulation with Diffusion-Based Distillation](https://ojs.aaai.org/index.php/AAAI/article/view/36970)**  
-Yuhang Chen, Jie Sun, Jialin Fan, Jian Sun
+[AAAI 2026]**[Transferring Causal Driving Patterns for Generalizable Traffic Simulation with Diffusion-Based Distillation](https://ojs.aaai.org/index.php/AAAI/article/view/36970)**  
 
 <p>
   <a href="https://ojs.aaai.org/index.php/AAAI/article/view/36970">
