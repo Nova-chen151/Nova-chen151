@@ -4,7 +4,7 @@
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0%3A7AA2FF%2C55%3A8C8FF5%2C100%3A78C8E8&height=220&section=header&text=Yuhang%20Chen&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Generative%20Simulation%20%C2%B7%20Autonomous%20Driving%20%C2%B7%203D%20Reconstruction&descAlignY=58&descSize=18"
     width="100%"
-    alt="Yuhang Chen"
+    alt="NOVAICHEN"
   />
 </p>
 
@@ -55,7 +55,7 @@
 
 ## 👋 About Me
 
-你好，我是 **Yuhang Chen**。我的研究关注 **自动驾驶场景生成、三维场景重建与闭环仿真测试**，希望让真实驾驶数据与生成模型共同服务于驾驶策略的训练、测试和改进。
+你好，我的研究关注 **自动驾驶场景生成、三维场景重建与闭环仿真测试**，希望让真实驾驶数据与生成模型共同服务于驾驶策略的训练、测试和改进。
 
 - 🚗 **Generative Simulation & Policy Testing**：研究生成场景的交通合理性、策略响应与测试价值。
 - 🎥 **Video-to-Interactive Scene**：探索行车视频重建、长时序场景表示与闭环测试之间的连接。
