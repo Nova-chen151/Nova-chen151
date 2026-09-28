@@ -112,7 +112,7 @@ Me_HIDDEN_END -->
   </a>
 
   <a href="https://www.onsite.com.cn/#/dist/costomPage?menuId=307">
-    <img src="https://img.shields.io/badge/Project%20Page-OnSite%202026-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Project%20Page-OnSite%202026-6366F1?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
 
   <a href="https://www.onsite.com.cn/#/dist/rankingList4">
@@ -128,7 +128,7 @@ Me_HIDDEN_END -->
 
 <p>
   <a href="https://github.com/Nova-chen151/Onsite3DSG-Benchmark.github.io">
-    <img src="https://img.shields.io/badge/Project%20Page-OnSite-OnSite%202027-6366F1?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Project%20Page-OnSite%202027-6366F1?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 ---
