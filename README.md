@@ -59,7 +59,7 @@ Me_HIDDEN_END -->
 
 <p>
   <a href="https://ojs.aaai.org/index.php/AAAI/article/view/36970">
-    <img src="https://img.shields.io/badge/Paper-AAAI%202026-3B82F6?style=flat-square" />
+    <img src="https://img.shields.io/badge/Paper-AAAI%202026-3B82F6?style=flat-square&logo=googlescholar&logoColor=white" />
   </a>
 
   <a href="https://github.com/Nova-chen151/SIM-CDPT">
@@ -67,7 +67,7 @@ Me_HIDDEN_END -->
   </a>
 
   <a href="https://nova-chen151.github.io/simCDPT.github.io/">
-    <img src="https://img.shields.io/badge/Project-Page-6366F1?style=flat-square" />
+    <img src="https://img.shields.io/badge/Project%20Page-CDPT-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
