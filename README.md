@@ -105,6 +105,7 @@ Yuhang Chen, Jie Sun, Jialin Fan, Jian Sun
 
 ---
 
+<!-- ONSITE_TIMELINE_HIDDEN_START
 ## 🛣️ OnSite Timeline
 
 过去三届 **OnSite 自动驾驶算法挑战赛** 中，我持续参与场景生成与测试相关技术工作，并围绕赛事逐步推进从规则仿真到生成式场景与策略测试的完整技术链路。
@@ -170,6 +171,7 @@ Yuhang Chen, Jie Sun, Jialin Fan, Jian Sun
   </a>
 </p>
 
+ONSITE_TIMELINE_HIDDEN_END -->
 ---
 
 <p align="center">
