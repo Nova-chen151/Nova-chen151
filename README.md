@@ -28,7 +28,12 @@ Me_HIDDEN_END -->
 
 **[AAAI 2026]** **[Transferring Causal Driving Patterns for Generalizable Traffic Simulation with Diffusion-Based Distillation](https://ojs.aaai.org/index.php/AAAI/article/view/36970)**  
 
-<p><a href="https://ojs.aaai.org/index.php/AAAI/article/view/36970"><img src="https://img.shields.io/badge/Paper-AAAI%202026-3B82F6?style=flat-square&logo=googlescholar&logoColor=white" /></a>&nbsp;<a href="https://github.com/Nova-chen151/SIM-CDPT"><img src="https://img.shields.io/badge/Code-SIM--CDPT-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;<a href="https://nova-chen151.github.io/simCDPT.github.io/"><img src="https://img.shields.io/badge/Project%20Page-CDPT-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;<a href="https://mp.weixin.qq.com/s/TC0tdljXHj89xaVsvFQ4yA"><img src="https://img.shields.io/badge/News-SIM%20CDPT-16A34A?style=flat-square&logo=rss&logoColor=white" /></a></p>
+<p><a href="https://ojs.aaai.org/index.php/AAAI/article/view/36970"><img src="https://img.shields.io/badge/Paper-AAAI%202026-3B82F6?style=flat-square&logo=googlescholar&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/Nova-chen151/SIM-CDPT"><img src="https://img.shields.io/badge/Code-SIM--CDPT-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
+  <a href="https://nova-chen151.github.io/simCDPT.github.io/"><img src="https://img.shields.io/badge/Project%20Page-CDPT-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;
+  <a href="https://mp.weixin.qq.com/s/TC0tdljXHj89xaVsvFQ4yA"><img src="https://img.shields.io/badge/News-SIM%20CDPT-16A34A?style=flat-square&logo=rss&logoColor=white" /></a>&nbsp;
+  <a href="https://tops.tongji.edu.cn/info/1225/2649.htm"><img src="https://img.shields.io/badge/News-AAAI%20Conference-16A34A?style=flat-square&logo=rss&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -37,15 +42,25 @@ Me_HIDDEN_END -->
 
 **[Onsite 2025]**  **[第三届 Onsite 场景智能生成赛道 (Onsite Scenario Intelligent Generation Track)](https://www.onsite.com.cn/#/dist/rankingList3)**
 
-<p><a href="https://github.com/Nova-chen151/Onsite_rule_driven_model"><img src="https://img.shields.io/badge/Code-Rule--driven%20Baseline-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;<a href="https://github.com/Nova-chen151/Onsite_Ego_Testing"><img src="https://img.shields.io/badge/Code-Scenario%20Testing-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;<a href="https://www.onsite.com.cn/#/dist/rankingList3"><img src="https://img.shields.io/badge/Leaderboard-OnSite%202025-2563EB?style=flat-square&logo=codeforces&logoColor=white" /></a>&nbsp;<a href="https://kns.cnki.net/kcms2/article/abstract?v=u5lPRpBnoljBoJvBrTdFyG0TmVUzaFi_XDHZapG10L4RSIYn1LeugYBtX-2lO4p4qpCRmMm-8gS3dGu9HtfrxTnmgldY3d1etMNULTG2ln0CW3QoDaHBBRPSYx7m5ZXigbA0pA-LFElDEgyu4mwc95IEN7CXTdEb0OMUTgdCwYLypvjKNVGH3NmKpi-77T7aoVLtTf6ralQ&uniplatform=NZKPT&captchaId=7ce3e3c0-49f8-4a23-aca5-cc369bf95704"><img src="https://img.shields.io/badge/Paper-CNKI-3B82F6?style=flat-square&logo=googlescholar&logoColor=white" /></a>&nbsp;<a href="https://github.com/Nova-chen151/VP-AutoTest-BV-Controller"><img src="https://img.shields.io/badge/Code-VP%20Testing-181717?style=flat-square&logo=github&logoColor=white" /></a></p>
+<p><a href="https://github.com/Nova-chen151/Onsite_rule_driven_model"><img src="https://img.shields.io/badge/Code-Rule--driven%20Baseline-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/Nova-chen151/Onsite_Ego_Testing"><img src="https://img.shields.io/badge/Code-Scenario%20Testing-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
+  <a href="https://www.onsite.com.cn/#/dist/rankingList3"><img src="https://img.shields.io/badge/Leaderboard-OnSite%202025-2563EB?style=flat-square&logo=codeforces&logoColor=white" /></a>&nbsp;
+  <a href="https://kns.cnki.net/kcms2/article/abstract?v=u5lPRpBnoljBoJvBrTdFyG0TmVUzaFi_XDHZapG10L4RSIYn1LeugYBtX-2lO4p4qpCRmMm-8gS3dGu9HtfrxTnmgldY3d1etMNULTG2ln0CW3QoDaHBBRPSYx7m5ZXigbA0pA-LFElDEgyu4mwc95IEN7CXTdEb0OMUTgdCwYLypvjKNVGH3NmKpi-77T7aoVLtTf6ralQ&uniplatform=NZKPT&captchaId=7ce3e3c0-49f8-4a23-aca5-cc369bf95704"><img src="https://img.shields.io/badge/Paper-CNKI-3B82F6?style=flat-square&logo=googlescholar&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/Nova-chen151/VP-AutoTest-BV-Controller"><img src="https://img.shields.io/badge/Code-VP%20Testing-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
 
 **[Onsite 2026]**  **[第四届 Onsite 训测一体场景生成赛道 (Onsite Unified Train-Test Scenario Generation Track)](https://www.onsite.com.cn/#/dist/costomPage?menuId=307)**
 
-<p><a href="https://github.com/Nova-chen151/Onsite_Data-driven_Baseline"><img src="https://img.shields.io/badge/Code-Data--driven%20Baseline-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;<a href="https://github.com/Nova-chen151/Onsite_UT2SG_Testing"><img src="https://img.shields.io/badge/Code-UT2SG%20Testing-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;<a href="https://www.onsite.com.cn/#/dist/costomPage?menuId=307"><img src="https://img.shields.io/badge/Project%20Page-OnSite%202026-6366F1?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;<a href="https://www.onsite.com.cn/#/dist/rankingList4"><img src="https://img.shields.io/badge/Leaderboard-OnSite%202026-2563EB?style=flat-square&logo=codeforces&logoColor=white" /></a>&nbsp;<a href="https://www.onsite.com.cn/#/dist/newsDetail?id=netNews&menuId=52&ids=391"><img src="https://img.shields.io/badge/News-OnSite%202026-16A34A?style=flat-square&logo=rss&logoColor=white" /></a></p>
+<p><a href="https://github.com/Nova-chen151/Onsite_Data-driven_Baseline"><img src="https://img.shields.io/badge/Code-Data--driven%20Baseline-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/Nova-chen151/Onsite_UT2SG_Testing"><img src="https://img.shields.io/badge/Code-UT2SG%20Testing-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
+  <a href="https://www.onsite.com.cn/#/dist/costomPage?menuId=307"><img src="https://img.shields.io/badge/Project%20Page-OnSite%202026-6366F1?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;
+  <a href="https://www.onsite.com.cn/#/dist/rankingList4"><img src="https://img.shields.io/badge/Leaderboard-OnSite%202026-2563EB?style=flat-square&logo=codeforces&logoColor=white" /></a>&nbsp;
+  <a href="https://www.onsite.com.cn/#/dist/newsDetail?id=netNews&menuId=52&ids=391"><img src="https://img.shields.io/badge/News-OnSite%202026-16A34A?style=flat-square&logo=rss&logoColor=white" /></a>
+</p>
 
-**[Onsite 2027]**  **[第五届 Onsite 三维场景生成赛道 (Onsite 3D Scenario Generation Track)](https://github.com/Nova-chen151/Onsite3DSG-Benchmark.github.io)**
+**[Onsite 2027]**  **[第五届 Onsite 三维场景生成赛道 (Onsite 3D Scenario Generation Track)](https://nova-chen151.github.io/Onsite3DSG-Benchmark.github.io/)**
 
-<p><a href="https://github.com/Nova-chen151/Onsite3DSG-Benchmark.github.io"><img src="https://img.shields.io/badge/Project%20Page-OnSite%202027-6366F1?style=flat-square&logo=github&logoColor=white" /></a></p>
+<p><a href="https://nova-chen151.github.io/Onsite3DSG-Benchmark.github.io/"><img src="https://img.shields.io/badge/Project%20Page-OnSite%202027-6366F1?style=flat-square&logo=googlechrome&logoColor=white" /></a></p>
 
 ---
 
