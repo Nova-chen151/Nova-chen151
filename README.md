@@ -52,18 +52,35 @@
   <sub>From generated scenes to trustworthy policy tests.</sub>
 </p>
 
-<p align="center">
-  <a href="#-about-me">About</a> ·
-  <a href="#️-onsite-timeline">OnSite</a> ·
-  <a href="#-selected-publications">Publications</a> ·
-  <a href="#-contribution-snake">Snake</a>
-</p>
 
 ---
 
 ## 👋 About Me
 
 你好，我目前在 **同济大学交通运输工程学院 TOPS 交通运行与仿真课题组** 开展研究。我的研究关注 **自动驾驶场景生成、多智能体行为仿真与闭环仿真测试**，希望让真实驾驶数据与生成模型共同服务于驾驶策略的训练、测试和改进。
+
+---
+
+## 📝 Selected Publications
+
+### CDPT · AAAI 2026
+
+**[Transferring Causal Driving Patterns for Generalizable Traffic Simulation with Diffusion-Based Distillation](https://ojs.aaai.org/index.php/AAAI/article/view/36970)**  
+Yuhang Chen, Jie Sun, Jialin Fan, Jian Sun
+
+<p>
+  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/36970">
+    <img src="https://img.shields.io/badge/Paper-AAAI%202026-3B82F6?style=flat-square" />
+  </a>
+
+  <a href="https://github.com/Nova-chen151/SIM-CDPT">
+    <img src="https://img.shields.io/badge/Code-SIM--CDPT-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://nova-chen151.github.io/simCDPT.github.io/">
+    <img src="https://img.shields.io/badge/Project-Page-6366F1?style=flat-square" />
+  </a>
+</p>
 
 ---
 
@@ -129,29 +146,6 @@
 
   <a href="https://github.com/Nova-chen151/Onsite3DSG-Benchmark.github.io">
     <img src="https://img.shields.io/badge/Code-Repository-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 📝 Selected Publications
-
-### CDPT · AAAI 2026
-
-**[Transferring Causal Driving Patterns for Generalizable Traffic Simulation with Diffusion-Based Distillation](https://ojs.aaai.org/index.php/AAAI/article/view/36970)**  
-Yuhang Chen, Jie Sun, Jialin Fan, Jian Sun
-
-<p>
-  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/36970">
-    <img src="https://img.shields.io/badge/Paper-AAAI%202026-3B82F6?style=flat-square" />
-  </a>
-
-  <a href="https://github.com/Nova-chen151/SIM-CDPT">
-    <img src="https://img.shields.io/badge/Code-SIM--CDPT-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://nova-chen151.github.io/simCDPT.github.io/">
-    <img src="https://img.shields.io/badge/Project-Page-6366F1?style=flat-square" />
   </a>
 </p>
 
