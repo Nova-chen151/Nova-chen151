@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0%3A7AA2FF%2C55%3A8C8FF5%2C100%3A78C8E8&height=220&section=header&text=NOVAICHEN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Generative%20Simulation%20%C2%B7%20Autonomous%20Driving%20%C2%B7%203D%20Reconstruction&descAlignY=58&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0%3A7AA2FF%2C55%3A8C8FF5%2C100%3A78C8E8&height=220&section=header&text=NOVAICHEN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Generative%20Simulation%20%C2%B7%20Autonomous%20Driving%20%C2%B7%20Sim%20Agents&descAlignY=58&descSize=18"
     width="100%"
     alt="NOVAICHEN"
   />
