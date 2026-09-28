@@ -14,19 +14,7 @@
 
 <!-- ==================== Badges ==================== -->
 
-<div align="center">
-  <a href="https://github.com/Nova-chen151"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-  <a href="mailto:2512164@tongji.edu.cn"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-  <a href="https://scholar.google.com/citations?user=npQoBZUAAAAJ&hl=zh-CN"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
-
-  <a href="https://tops.tongji.edu.cn/"><img src="https://img.shields.io/badge/Tongji-TOPS-7C3AED?style=for-the-badge&logo=academia&logoColor=white" /></a>
-
-  <a href="https://tops.tongji.edu.cn/info/1204/2565.htm"><img src="https://img.shields.io/badge/Homepage-2563EB?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
-
-  <a href="https://github.com/Nova-chen151?tab=followers"><img src="https://img.shields.io/github/followers/Nova-chen151?label=Followers&style=for-the-badge&color=6366F1&logo=github&logoColor=white" /></a>
-</div>
+<div align="center"><a href="https://github.com/Nova-chen151"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;<a href="mailto:2512164@tongji.edu.cn"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;<a href="https://scholar.google.com/citations?user=npQoBZUAAAAJ&hl=zh-CN"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>&nbsp;<a href="https://tops.tongji.edu.cn/"><img src="https://img.shields.io/badge/Tongji-TOPS-7C3AED?style=for-the-badge&logo=academia&logoColor=white" /></a>&nbsp;<a href="https://tops.tongji.edu.cn/info/1204/2565.htm"><img src="https://img.shields.io/badge/Homepage-2563EB?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>&nbsp;<a href="https://github.com/Nova-chen151?tab=followers"><img src="https://img.shields.io/github/followers/Nova-chen151?label=Followers&style=for-the-badge&color=6366F1&logo=github&logoColor=white" /></a></div>
 
 <!-- Me_HIDDEN_START
 ## 👋 About Me
