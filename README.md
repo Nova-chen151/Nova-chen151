@@ -88,11 +88,11 @@ Me_HIDDEN_END -->
   </a>
 
   <a href="https://www.onsite.com.cn/#/dist/rankingList3">
-    <img src="https://img.shields.io/badge/OnSite-Leaderboard-F59E0B?style=flat-square&logo=trophy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Leaderboard-OnSite%202025-2563EB?style=flat-square&logo=trophy&logoColor=white" />
   </a>
-  
+
   <a href="https://kns.cnki.net/kcms2/article/abstract?v=u5lPRpBnoljBoJvBrTdFyG0TmVUzaFi_XDHZapG10L4RSIYn1LeugYBtX-2lO4p4qpCRmMm-8gS3dGu9HtfrxTnmgldY3d1etMNULTG2ln0CW3QoDaHBBRPSYx7m5ZXigbA0pA-LFElDEgyu4mwc95IEN7CXTdEb0OMUTgdCwYLypvjKNVGH3NmKpi-77T7aoVLtTf6ralQ&uniplatform=NZKPT&captchaId=7ce3e3c0-49f8-4a23-aca5-cc369bf95704">
-    <img src="https://img.shields.io/badge/Paper-CNKI-F59E0B?style=flat-square&logo=trophy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Paper-CNKI-B31B1B?style=flat-square&logo=googlescholar&logoColor=white" />
   </a>
 
   <a href="https://github.com/Nova-chen151/VP-AutoTest-BV-Controller">
@@ -112,15 +112,15 @@ Me_HIDDEN_END -->
   </a>
 
   <a href="https://www.onsite.com.cn/#/dist/costomPage?menuId=307">
-    <img src="https://img.shields.io/badge/OnSite-Project%20Page-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Project%20Page-OnSite%202026-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
 
   <a href="https://www.onsite.com.cn/#/dist/rankingList4">
-    <img src="https://img.shields.io/badge/OnSite-Leaderboard-F59E0B?style=flat-square&logo=trophy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Leaderboard-OnSite%202026-2563EB?style=flat-square&logo=trophy&logoColor=white" />
   </a>
 
   <a href="https://www.onsite.com.cn/#/dist/newsDetail?id=netNews&menuId=52&ids=391">
-    <img src="https://img.shields.io/badge/OnSite-News-16A34A?style=flat-square&logo=rss&logoColor=white" />
+    <img src="https://img.shields.io/badge/News-OnSite%202026-16A34A?style=flat-square&logo=rss&logoColor=white" />
   </a>
 </p>
 
@@ -128,7 +128,7 @@ Me_HIDDEN_END -->
 
 <p>
   <a href="https://github.com/Nova-chen151/Onsite3DSG-Benchmark.github.io">
-    <img src="https://img.shields.io/badge/OnSite-3DSG%20Benchmark-6366F1?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/3DSG%20Benchmark-OnSite%202027-6366F1?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 ---
