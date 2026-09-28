@@ -50,36 +50,40 @@
   <b>Scenario Generation → Simulation → Policy Testing → Evaluation → Feedback</b>
 </p>
 
-我的 OnSite 工作不是几个相互独立的仓库，而是一条持续演进的技术路线：从“**如何生成场景**”，逐渐走向“**如何判断生成场景是否真的具有测试价值**”。
+<p align="center">
+  <sub>从“如何生成场景”，逐步走向“如何判断生成场景是否真正具有测试价值”。</sub>
+</p>
 
 <table width="100%">
   <tr>
-    <th width="20%">阶段</th>
-    <th width="42%">核心工作</th>
-    <th width="38%">代表项目</th>
-  </tr>
-  <tr>
-    <td align="center"><b>01<br/>Rule-based</b></td>
-    <td>规则驱动交通流建模与自动驾驶测试场景生成，覆盖跟驰、换道、合流、分流与冲突交互。</td>
-    <td><a href="https://github.com/Nova-chen151/Onsite_rule_driven_model"><b>Onsite_rule_driven_model</b></a></td>
-  </tr>
-  <tr>
-    <td align="center"><b>02<br/>Evaluation</b></td>
-    <td>对生成场景进行离线回放、多规划器测试以及安全性、舒适性、真实性等指标评估。</td>
-    <td><a href="https://github.com/Nova-chen151/Onsite_Ego_Testing"><b>Onsite_Ego_Testing</b></a></td>
-  </tr>
-  <tr>
-    <td align="center"><b>03<br/>Train-Test</b></td>
-    <td>从数据驱动背景车生成进一步扩展到 BV–AV 联合评测，让生成场景直接进入自动驾驶策略测试流程。</td>
-    <td>
-      <a href="https://github.com/Nova-chen151/Onsite_Data-driven_Baseline"><b>Data-driven Baseline</b></a><br/>
-      <a href="https://github.com/Nova-chen151/Onsite_UT2SG_Testing"><b>UT2SG Testing</b></a>
+    <td align="center" width="23%">
+      <b>① Rule-based Simulation</b><br/><br/>
+      <sub>规则驱动交通行为建模</sub><br/>
+      <sub>跟驰 · 换道 · 合流 · 分流 · 冲突</sub><br/><br/>
+      <a href="https://github.com/Nova-chen151/Onsite_rule_driven_model"><b>Repository ↗</b></a>
     </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Now<br/>3D Generative</b></td>
-    <td>面向三维生成场景构建分层 Benchmark，从视觉质量进一步走向交通保真、策略响应与测试有效性。</td>
-    <td><a href="https://github.com/Nova-chen151/Onsite3DSG-Benchmark.github.io"><b>OnSite 3DSG Benchmark</b></a></td>
+    <td align="center" width="3%">➜</td>
+    <td align="center" width="23%">
+      <b>② Scenario Evaluation</b><br/><br/>
+      <sub>生成场景回放与多规划器测试</sub><br/>
+      <sub>Safety · Comfort · Realism</sub><br/><br/>
+      <a href="https://github.com/Nova-chen151/Onsite_Ego_Testing"><b>Repository ↗</b></a>
+    </td>
+    <td align="center" width="3%">➜</td>
+    <td align="center" width="23%">
+      <b>③ Unified Train-Test</b><br/><br/>
+      <sub>数据驱动背景车生成 + BV–AV 联合评测</sub><br/>
+      <sub>Generation · Policy · Scoring</sub><br/><br/>
+      <a href="https://github.com/Nova-chen151/Onsite_Data-driven_Baseline"><b>Baseline ↗</b></a> ·
+      <a href="https://github.com/Nova-chen151/Onsite_UT2SG_Testing"><b>Testing ↗</b></a>
+    </td>
+    <td align="center" width="3%">➜</td>
+    <td align="center" width="22%">
+      <b>④ 3D Generative Benchmark</b><br/><br/>
+      <sub>三维生成场景与策略测试基准</sub><br/>
+      <sub>Quality · Fidelity · Response · QTES</sub><br/><br/>
+      <a href="https://nova-chen151.github.io/Onsite3DSG-Benchmark.github.io/"><b>Project Page ↗</b></a>
+    </td>
   </tr>
 </table>
 
@@ -165,11 +169,21 @@
 
 ---
 
-## 📈 GitHub
+## 📈 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nova-chen151&show_icons=true&hide_border=true&include_all_commits=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nova-chen151&layout=compact&hide_border=true" />
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nova-chen151/Nova-chen151/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nova-chen151/Nova-chen151/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Nova-chen151/Nova-chen151/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
