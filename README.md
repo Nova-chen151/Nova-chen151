@@ -92,7 +92,7 @@ Me_HIDDEN_END -->
   </a>
 
   <a href="https://kns.cnki.net/kcms2/article/abstract?v=u5lPRpBnoljBoJvBrTdFyG0TmVUzaFi_XDHZapG10L4RSIYn1LeugYBtX-2lO4p4qpCRmMm-8gS3dGu9HtfrxTnmgldY3d1etMNULTG2ln0CW3QoDaHBBRPSYx7m5ZXigbA0pA-LFElDEgyu4mwc95IEN7CXTdEb0OMUTgdCwYLypvjKNVGH3NmKpi-77T7aoVLtTf6ralQ&uniplatform=NZKPT&captchaId=7ce3e3c0-49f8-4a23-aca5-cc369bf95704">
-    <img src="https://img.shields.io/badge/Paper-CNKI-B31B1B?style=flat-square&logo=googlescholar&logoColor=white" />
+    <img src="https://img.shields.io/badge/Paper-CNKI-3B82F6?style=flat-square&logo=googlescholar&logoColor=white" />
   </a>
 
   <a href="https://github.com/Nova-chen151/VP-AutoTest-BV-Controller">
