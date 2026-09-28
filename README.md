@@ -78,7 +78,15 @@ Me_HIDDEN_END -->
 
 ## 🛠️ Engineering Evidence
 
-**OnSite · Autonomous Driving Algorithm Challenge** — Engineering support across three editions, covering scenario generation, replay testing, data-driven simulation, and unified train-test evaluation.
+**2024 · OnSite 2.0** — Autonomous-driving testing and challenge engineering support.
+
+<p>
+  <a href="https://www.onsite.com.cn/">
+    <img src="https://img.shields.io/badge/OnSite-2.0-64748B?style=flat-square" />
+  </a>
+</p>
+
+**2025 · OnSite 3.0** — Rule-driven scenario generation and replay-based scenario testing.
 
 <p>
   <a href="https://github.com/Nova-chen151/Onsite_rule_driven_model">
@@ -88,7 +96,11 @@ Me_HIDDEN_END -->
   <a href="https://github.com/Nova-chen151/Onsite_Ego_Testing">
     <img src="https://img.shields.io/badge/Code-Scenario%20Testing-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
+</p>
 
+**2026 · OnSite 4.0** — Data-driven scenario generation, unified train-test evaluation, and 3D generative benchmarking.
+
+<p>
   <a href="https://github.com/Nova-chen151/Onsite_Data-driven_Baseline">
     <img src="https://img.shields.io/badge/Code-Data--driven%20Baseline-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
@@ -103,7 +115,6 @@ Me_HIDDEN_END -->
 </p>
 
 ---
-
 
 ## 🐍 Contribution Snake
 
