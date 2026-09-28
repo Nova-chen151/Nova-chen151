@@ -1,167 +1,184 @@
-<!-- 个人主页名暂用 Nova；姓名、学校、导师、邮箱和学术主页可自行补充。 -->
-<!-- 此文件可单独使用。可选工作流只更新 PROFILE_VISUALS 标记之间的区域。 -->
-
+<!-- ==================== Header ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3A2563EB%2C55%3A6366F1%2C100%3A38BDF8&amp;height=210&amp;section=header&amp;text=NOVA&amp;fontSize=62&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Generative%20Simulation%20%C2%B7%20Autonomous%20Driving%20%C2%B7%203D%20Reconstruction&amp;descAlignY=57&amp;descSize=17" width="100%" alt="NOVA — Generative Simulation, Autonomous Driving, 3D Reconstruction" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A2563EB%2C55%3A6366F1%2C100%3A38BDF8&height=210&section=header&text=NOVA&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Autonomous%20Driving%20%C2%B7%20Scenario%20Generation%20%C2%B7%20Simulation%20%26%20Testing&descAlignY=57&descSize=17" width="100%" alt="NOVA" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Nova-chen151">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=1800&amp;color=5B6FE8&amp;center=true&amp;vCenter=true&amp;width=980&amp;height=55&amp;lines=Generative%20Simulation%20for%20Autonomous%20Driving%3B3D%20Reconstruction%20and%20Closed-loop%20Evaluation%3BFrom%20Real-world%20Videos%20to%20Reliable%20Policy%20Tests" width="100%" alt="Generative Simulation · 3D Reconstruction · Closed-loop Evaluation" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&weight=600&size=22&duration=2800&pause=1800&color=5B6FE8&center=true&vCenter=true&width=980&height=55&lines=Three+Editions+of+OnSite+%C2%B7+One+Continuous+Journey;Scenario+Generation+%E2%86%92+Simulation+%E2%86%92+Policy+Testing;Generative+Driving+%C2%B7+Closed-loop+Evaluation" width="100%" alt="OnSite journey" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nova-chen151?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub repositories" />
-  </a>
-  <a href="https://nova-chen151.github.io/simCDPT.github.io/">
-    <img src="https://img.shields.io/badge/CDPT-AAAI_2026-2563EB?style=for-the-badge" alt="CDPT — AAAI 2026" />
+  <a href="https://www.onsite.com.cn/">
+    <img src="https://img.shields.io/badge/OnSite-Autonomous_Driving_Challenge-2563EB?style=for-the-badge" alt="OnSite" />
   </a>
   <a href="https://nova-chen151.github.io/Onsite3DSG-Benchmark.github.io/">
-    <img src="https://img.shields.io/badge/OnSite-3DSG_Benchmark-6366F1?style=for-the-badge" alt="OnSite 3DSG Benchmark project page" />
+    <img src="https://img.shields.io/badge/OnSite_3DSG-Benchmark-6366F1?style=for-the-badge" alt="OnSite 3DSG Benchmark" />
   </a>
-  <a href="https://github.com/Nova-chen151?tab=followers">
-    <img src="https://img.shields.io/github/followers/Nova-chen151?label=Followers&amp;style=for-the-badge&amp;color=5B6FE8&amp;logo=github&amp;logoColor=white" alt="GitHub followers" />
+  <a href="https://github.com/Nova-chen151?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
 </p>
 
 <p align="center">
-  <b>让生成场景真正成为可信的自动驾驶测试。</b><br />
-  <sub>From generated scenes to trustworthy policy tests.</sub>
-</p>
-
-<p align="center">
-  <a href="#about-me">About</a> ·
-  <a href="#research-focus">Research</a> ·
-  <a href="#publications">Publications</a> ·
-  <a href="#projects">Projects</a> ·
-  <a href="#connect">Connect</a>
+  <b>让生成场景真正服务于自动驾驶测试。</b><br/>
+  <sub>Building driving scenarios that are not only realistic, but useful for testing.</sub>
 </p>
 
 ---
 
-<a id="about-me"></a>
 ## 👋 About Me
 
-你好，我是 **Nova**。我的研究关注 **自动驾驶场景生成、三维场景重建与闭环仿真测试**，希望让真实驾驶数据与生成模型共同服务于驾驶策略的训练、测试和改进。
+你好，我是 **Nova**。我的研究主要关注 **自动驾驶场景生成、交通仿真、三维场景重建与闭环策略测试**。
 
-- 🚘 **生成式仿真与策略测试**：研究生成场景的交通合理性、策略响应，以及场景是否具有可信的测试价值。
-- 🎥 **从视频到可交互场景**：探索行车视频重建、长时序场景表示与闭环测试之间的连接。
-- 🧠 **多智能体行为建模**：关注交通行为生成、轨迹重建，以及不完整观测下的运动建模。
+过去三届 **OnSite 自动驾驶算法挑战赛** 中，我持续参与场景生成与测试相关技术工作。围绕赛事需求，我的工作逐步从 **规则驱动交通仿真**，扩展到 **生成场景评测与多策略测试**，再进一步探索 **数据驱动生成、训测一体以及 3D 生成场景 Benchmark**。
 
-<a id="research-focus"></a>
-## 🔬 Research Focus
+<p align="center">
+  <img src="https://img.shields.io/badge/-Autonomous%20Driving-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Scenario%20Generation-4F46E5?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Traffic%20Simulation-6366F1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Closed--loop%20Testing-0284C7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-3D%20Scene%20Generation-0891B2?style=flat-square"/>
+</p>
+
+---
+
+## 🏁 Three Editions of OnSite
+
+<p align="center">
+  <b>Scenario Generation → Simulation → Policy Testing → Evaluation → Feedback</b>
+</p>
+
+我的 OnSite 工作不是几个相互独立的仓库，而是一条持续演进的技术路线：从“**如何生成场景**”，逐渐走向“**如何判断生成场景是否真的具有测试价值**”。
 
 <table width="100%">
   <tr>
-    <td align="center" width="25%">
-      🌐<br /><b>Scene Generation</b><br />
-      <sub>生成式交通与驾驶场景</sub>
-    </td>
-    <td align="center" width="25%">
-      🎥<br /><b>3D Reconstruction</b><br />
-      <sub>行车视频与场景表示</sub>
-    </td>
-    <td align="center" width="25%">
-      🚘<br /><b>Closed-loop Evaluation</b><br />
-      <sub>可交互仿真与策略测试</sub>
-    </td>
-    <td align="center" width="25%">
-      🧠<br /><b>Multi-agent Modeling</b><br />
-      <sub>轨迹重建与交通行为</sub>
-    </td>
+    <th width="20%">阶段</th>
+    <th width="42%">核心工作</th>
+    <th width="38%">代表项目</th>
   </tr>
-</table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Generative_Models-2563EB?style=flat-square" alt="Generative Models" />
-  <img src="https://img.shields.io/badge/3D_Scene_Reconstruction-4F46E5?style=flat-square" alt="3D Scene Reconstruction" />
-  <img src="https://img.shields.io/badge/Traffic_Simulation-6366F1?style=flat-square" alt="Traffic Simulation" />
-  <img src="https://img.shields.io/badge/Policy_Evaluation-0284C7?style=flat-square" alt="Policy Evaluation" />
-  <img src="https://img.shields.io/badge/Trajectory_Reconstruction-0891B2?style=flat-square" alt="Trajectory Reconstruction" />
-</p>
-
----
-
-<a id="publications"></a>
-## 📝 Selected Publications
-
-### CDPT · AAAI 2026
-
-**[Transferring Causal Driving Patterns for Generalizable Traffic Simulation with Diffusion-Based Distillation](https://ojs.aaai.org/index.php/AAAI/article/view/36970)**  
-Yuhang Chen, Jie Sun, Jialin Fan, Jian Sun  
-<sub>面向跨域交通仿真的因果驾驶模式迁移与扩散蒸馏。</sub>
-
-[![Paper](https://img.shields.io/badge/Paper-AAAI_2026-2563EB?style=flat-square)](https://ojs.aaai.org/index.php/AAAI/article/view/36970)
-[![Code](https://img.shields.io/badge/Code-SIM--CDPT-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nova-chen151/SIM-CDPT)
-[![Project](https://img.shields.io/badge/Project-Page-6366F1?style=flat-square)](https://nova-chen151.github.io/simCDPT.github.io/)
-
-<!-- 新增已发表或已接收论文时，请填写真实题名、作者、会议/期刊和可访问链接。 -->
-
-<a id="projects"></a>
-## 🚀 Featured Projects
-
-<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 OnSite 3DSG Benchmark</h3>
-      <p>面向自动驾驶测试的三维场景生成基准：连接观测质量、交通保真度与驾驶策略响应。</p>
-      <p><a href="https://nova-chen151.github.io/Onsite3DSG-Benchmark.github.io/">Project Page ↗</a> · <a href="https://github.com/Nova-chen151/Onsite3DSG-Benchmark.github.io">Repository ↗</a></p>
-      <sub>项目介绍与排行榜展示网站；当前榜单为演示数据。</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚘 CDPT</h3>
-      <p>通过因果驾驶模式迁移与扩散蒸馏，研究交通行为生成和跨域交通仿真。</p>
-      <p><a href="https://github.com/Nova-chen151/SIM-CDPT">Code ↗</a> · <a href="https://nova-chen151.github.io/simCDPT.github.io/">Project Page ↗</a></p>
-      <sub>AAAI 2026 · 论文代码已公开。</sub>
+    <td align="center"><b>01<br/>Rule-based</b></td>
+    <td>规则驱动交通流建模与自动驾驶测试场景生成，覆盖跟驰、换道、合流、分流与冲突交互。</td>
+    <td><a href="https://github.com/Nova-chen151/Onsite_rule_driven_model"><b>Onsite_rule_driven_model</b></a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>02<br/>Evaluation</b></td>
+    <td>对生成场景进行离线回放、多规划器测试以及安全性、舒适性、真实性等指标评估。</td>
+    <td><a href="https://github.com/Nova-chen151/Onsite_Ego_Testing"><b>Onsite_Ego_Testing</b></a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>03<br/>Train-Test</b></td>
+    <td>从数据驱动背景车生成进一步扩展到 BV–AV 联合评测，让生成场景直接进入自动驾驶策略测试流程。</td>
+    <td>
+      <a href="https://github.com/Nova-chen151/Onsite_Data-driven_Baseline"><b>Data-driven Baseline</b></a><br/>
+      <a href="https://github.com/Nova-chen151/Onsite_UT2SG_Testing"><b>UT2SG Testing</b></a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🧩 TrajBridge</h3>
-      <p>面向密集交通的多智能体轨迹重建，探索未来约束下的条件流桥建模。</p>
-      <p><a href="https://github.com/Nova-chen151/TrajBridge">Project Repository ↗</a></p>
-      <sub>Under review · 代码计划在论文接收后公开。</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧪 OnSite UT2SG Evaluation</h3>
-      <p>联合评估生成背景车场景的测试价值与自车闭环轨迹表现，输出场景级和汇总评分。</p>
-      <p><a href="https://github.com/Nova-chen151/Onsite_UT2SG_Testing">Evaluation Code ↗</a></p>
-      <sub>场景生成评测 · 多算法测试 · 评分报告。</sub>
-    </td>
+    <td align="center"><b>Now<br/>3D Generative</b></td>
+    <td>面向三维生成场景构建分层 Benchmark，从视觉质量进一步走向交通保真、策略响应与测试有效性。</td>
+    <td><a href="https://github.com/Nova-chen151/Onsite3DSG-Benchmark.github.io"><b>OnSite 3DSG Benchmark</b></a></td>
   </tr>
 </table>
 
----
-
-## 🛠️ Tools I Work With
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
-</p>
-
-<!-- PROFILE_VISUALS:START -->
-<!-- 运行可选的 Update profile visuals 工作流后，这里会自动显示统计卡片与贡献蛇。 -->
-<!-- PROFILE_VISUALS:END -->
+> **What I care about:** generated scenarios should not only look realistic. They should provide **credible and useful tests for autonomous-driving policies**.
 
 ---
 
-<a id="connect"></a>
-## 🤝 Let's Connect
+## 🚀 Featured OnSite Projects
 
-欢迎交流 **自动驾驶场景生成、三维重建、生成式仿真和驾驶策略评测**。项目复现或使用问题，可以在对应公开仓库中提交 Issue。
+### 🧩 Rule-driven Scenario Generation
+**[Onsite_rule_driven_model](https://github.com/Nova-chen151/Onsite_rule_driven_model)**
 
-<!-- 邮箱、Google Scholar 和个人学术主页确认后，可在此添加链接。 -->
+第三届 OnSite 智能场景生成赛道相关样例模型。以规则驱动方式构建背景交通行为，包含 IDM 跟驰、换道、合流、分流、冲突避让等典型微观交通行为。
+
+### 🧪 Scenario & Policy Evaluation
+**[Onsite_Ego_Testing](https://github.com/Nova-chen151/Onsite_Ego_Testing)**
+
+生成场景离线回放与评测工具，将生成场景接入多个规划器，完成场景回放、指标计算、汇总评分与 GIF 可视化。
+
+### 🤖 Data-driven Scenario Generation
+**[Onsite_Data-driven_Baseline](https://github.com/Nova-chen151/Onsite_Data-driven_Baseline)**
+
+面向 OnSite 训测一体场景生成任务的数据驱动 baseline，根据历史交通状态与 OpenDRIVE 路网预测背景车辆行为，并生成 OpenSCENARIO 兼容测试场景。
+
+### 📊 Unified Train-Test Evaluation
+**[Onsite_UT2SG_Testing](https://github.com/Nova-chen151/Onsite_UT2SG_Testing)**
+
+连接 **BV 场景生成质量** 与 **AV 自车闭环表现** 的统一评测流程，支持多算法测试并输出场景级和汇总评分结果。
+
+### 🌐 OnSite 3D Scenario Generation Benchmark
+**[Project Page](https://nova-chen151.github.io/Onsite3DSG-Benchmark.github.io/)** · **[Repository](https://github.com/Nova-chen151/Onsite3DSG-Benchmark.github.io)**
+
+当前正在推进的三维场景生成 Benchmark。核心问题是：
+
+> **Can generated driving scenarios become trustworthy policy tests?**
+
+评测从 **Observation Quality → Scenario Fidelity → Policy Response → Quality-Aware Testing Effectiveness** 逐层展开，使生成场景的评价不再停留在“看起来像不像真实世界”。
+
+---
+
+## 🔬 Research Interests
+
+- **Generative Driving Simulation** — 可控、可扩展的自动驾驶测试场景生成
+- **Closed-loop Simulation & Policy Testing** — 将生成环境真正接入驾驶策略测试
+- **3D Scene Generation & Reconstruction** — 从真实观测构建可交互三维驾驶环境
+- **Multi-agent Trajectory Modeling** — 交通行为生成、轨迹预测与轨迹重建
+- **Real2Sim / Sim2Real** — 连接真实驾驶数据、重建环境与仿真测试
+
+---
+
+## 📌 Selected Projects
 
 <p align="center">
-  <sub>Build scenarios. Understand behavior. Test policies.</sub>
+  <a href="https://github.com/Nova-chen151/Onsite3DSG-Benchmark.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nova-chen151&repo=Onsite3DSG-Benchmark.github.io&theme=transparent" />
+  </a>
+  <a href="https://github.com/Nova-chen151/Onsite_Data-driven_Baseline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nova-chen151&repo=Onsite_Data-driven_Baseline&theme=transparent" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3A2563EB%2C55%3A6366F1%2C100%3A38BDF8&amp;height=100&amp;section=footer" width="100%" alt="Blue and purple wave footer" />
+  <a href="https://github.com/Nova-chen151/Onsite_UT2SG_Testing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nova-chen151&repo=Onsite_UT2SG_Testing&theme=transparent" />
+  </a>
+  <a href="https://github.com/Nova-chen151/TrajBridge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nova-chen151&repo=TrajBridge&theme=transparent" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenSCENARIO-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenDRIVE-4F46E5?style=flat-square"/>
+</p>
+
+---
+
+## 📈 GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nova-chen151&show_icons=true&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nova-chen151&layout=compact&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <b>AI for driving scenarios, driving scenarios for AI.</b><br/>
+  <sub>AI 服务 AI · From scenario generation to trustworthy policy testing.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A2563EB%2C55%3A6366F1%2C100%3A38BDF8&height=100&section=footer" width="100%" alt="footer" />
 </p>
