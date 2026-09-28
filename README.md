@@ -57,7 +57,7 @@ Me_HIDDEN_END -->
 
 ## 📝 Selected Publications
 
-[AAAI 2026] **[Transferring Causal Driving Patterns for Generalizable Traffic Simulation with Diffusion-Based Distillation](https://ojs.aaai.org/index.php/AAAI/article/view/36970)**  
+**[AAAI 2026]** **[Transferring Causal Driving Patterns for Generalizable Traffic Simulation with Diffusion-Based Distillation](https://ojs.aaai.org/index.php/AAAI/article/view/36970)**  
 
 <p>
   <a href="https://ojs.aaai.org/index.php/AAAI/article/view/36970">
