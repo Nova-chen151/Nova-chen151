@@ -34,8 +34,12 @@
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
   </a>
 
+  <a href="https://tops.tongji.edu.cn/">
+    <img src="https://img.shields.io/badge/Tongji%20University-TOPS-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
+  </a>
+
   <a href="https://tops.tongji.edu.cn/info/1204/2565.htm">
-    <img src="https://img.shields.io/badge/Tongji%20TOPS-Homepage-7C3AED?style=for-the-badge&logo=homeassistant&logoColor=white" />
+    <img src="https://img.shields.io/badge/Homepage-2563EB?style=for-the-badge&logo=aboutdotme&logoColor=white" />
   </a>
 
   <a href="https://github.com/Nova-chen151?tab=followers">
