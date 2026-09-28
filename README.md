@@ -2,9 +2,9 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0%3A7AA2FF%2C55%3A8C8FF5%2C100%3A78C8E8&height=220&section=header&text=NOVA&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Generative%20Simulation%20%C2%B7%20Autonomous%20Driving%20%C2%B7%203D%20Reconstruction&descAlignY=58&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0%3A7AA2FF%2C55%3A8C8FF5%2C100%3A78C8E8&height=220&section=header&text=Yuhang%20Chen&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Generative%20Simulation%20%C2%B7%20Autonomous%20Driving%20%C2%B7%203D%20Reconstruction&descAlignY=58&descSize=18"
     width="100%"
-    alt="NOVA"
+    alt="Yuhang Chen"
   />
 </p>
 
@@ -26,16 +26,12 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/36970">
-    <img src="https://img.shields.io/badge/CDPT-AAAI%202026-3B82F6?style=for-the-badge" />
+  <a href="mailto:novachen222@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://www.onsite.com.cn/">
-    <img src="https://img.shields.io/badge/OnSite-Autonomous%20Driving-555555?style=for-the-badge" />
-  </a>
-
-  <a href="https://nova-chen151.github.io/Onsite3DSG-Benchmark.github.io/">
-    <img src="https://img.shields.io/badge/3DSG-Benchmark-6366F1?style=for-the-badge" />
+  <a href="https://scholar.google.com/citations?user=npQoBZUAAAAJ&hl=zh-CN">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
   </a>
 
   <a href="https://github.com/Nova-chen151?tab=followers">
@@ -59,7 +55,7 @@
 
 ## 👋 About Me
 
-你好，我是 **Nova**。我的研究关注 **自动驾驶场景生成、三维场景重建与闭环仿真测试**，希望让真实驾驶数据与生成模型共同服务于驾驶策略的训练、测试和改进。
+你好，我是 **Yuhang Chen**。我的研究关注 **自动驾驶场景生成、三维场景重建与闭环仿真测试**，希望让真实驾驶数据与生成模型共同服务于驾驶策略的训练、测试和改进。
 
 - 🚗 **Generative Simulation & Policy Testing**：研究生成场景的交通合理性、策略响应与测试价值。
 - 🎥 **Video-to-Interactive Scene**：探索行车视频重建、长时序场景表示与闭环测试之间的连接。
