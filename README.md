@@ -76,7 +76,7 @@ Me_HIDDEN_END -->
 
 ## 🛠️ Engineering Evidence
 
-**[Onsite 2025]**  **[第三届 Onsite 场景智能生成赛道 (Onsite Scenario Intelligent Generation Track )](https://www.onsite.com.cn/#/dist/rankingList3)**
+**[Onsite 2025]**  **[第三届 Onsite 场景智能生成赛道 (Onsite Scenario Intelligent Generation Track)](https://www.onsite.com.cn/#/dist/rankingList3)**
 
 <p>
   <a href="https://github.com/Nova-chen151/Onsite_rule_driven_model">
@@ -86,11 +86,11 @@ Me_HIDDEN_END -->
   <a href="https://github.com/Nova-chen151/Onsite_Ego_Testing">
     <img src="https://img.shields.io/badge/Code-Scenario%20Testing-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  
+
   <a href="https://www.onsite.com.cn/#/dist/rankingList3">
-    <img src="https://img.shields.io/badge/Onsite-Leaderboard-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/OnSite-Leaderboard-F59E0B?style=flat-square&logo=trophy&logoColor=white" />
   </a>
-  
+
   <a href="https://github.com/Nova-chen151/VP-AutoTest-BV-Controller">
     <img src="https://img.shields.io/badge/Code-VP%20Testing-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
@@ -106,26 +106,27 @@ Me_HIDDEN_END -->
   <a href="https://github.com/Nova-chen151/Onsite_UT2SG_Testing">
     <img src="https://img.shields.io/badge/Code-UT2SG%20Testing-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  
+
   <a href="https://www.onsite.com.cn/#/dist/costomPage?menuId=307">
-    <img src="https://img.shields.io/badge/Onsite-Project%20Page-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/OnSite-Project%20Page-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
-  
+
   <a href="https://www.onsite.com.cn/#/dist/rankingList4">
-    <img src="https://img.shields.io/badge/Onsite-Leaderboard-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/OnSite-Leaderboard-F59E0B?style=flat-square&logo=trophy&logoColor=white" />
   </a>
-  
+
   <a href="https://www.onsite.com.cn/#/dist/newsDetail?id=netNews&menuId=52&ids=391">
-    <img src="https://img.shields.io/badge/Onsite-News-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  
-**[Onsite 2027]**  **[第五届 Onsite 三维场景生成赛道 (Onsite 3D Scenario Generation Track)](https://github.com/Nova-chen151/Onsite3DSG-Benchmark.github.io)**
-<p>
-  <a href="https://github.com/Nova-chen151/Onsite3DSG-Benchmark.github.io">
-    <img src="https://img.shields.io/badge/Onsite-3DSG%20Benchmark-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/OnSite-News-16A34A?style=flat-square&logo=rss&logoColor=white" />
   </a>
 </p>
 
+**[Onsite 2027]**  **[第五届 Onsite 三维场景生成赛道 (Onsite 3D Scenario Generation Track)](https://github.com/Nova-chen151/Onsite3DSG-Benchmark.github.io)**
+
+<p>
+  <a href="https://github.com/Nova-chen151/Onsite3DSG-Benchmark.github.io">
+    <img src="https://img.shields.io/badge/OnSite-3DSG%20Benchmark-6366F1?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 ---
 
 ## 🐍 Contribution Snake
