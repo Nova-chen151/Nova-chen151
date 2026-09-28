@@ -13,7 +13,7 @@
 <div align="center">
   <a href="https://github.com/Nova-chen151">
     <img
-      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2800&pause=1200&color=6C7BFF&center=true&vCenter=true&width=900&height=44&lines=Autonomous+Driving+%C2%B7+Policy+Testing;Traffic+Simulation+%C2%B7+Multi+Agents+Simulation;Generative+Model+%C2%B7+Scenario+Generation"
+      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2800&pause=1200&color=6C7BFF&center=true&vCenter=true&width=900&height=34&lines=Autonomous+Driving+%C2%B7+Policy+Testing;Traffic+Simulation+%C2%B7+Multi+Agents+Simulation;Generative+Model+%C2%B7+Scenario+Generation"
       alt="Typing SVG"
     />
   </a>
