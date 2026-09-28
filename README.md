@@ -2,15 +2,11 @@
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0%3A7AA2FF%2C55%3A8C8FF5%2C100%3A78C8E8&height=185&section=header&text=NOVAICHEN&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Generative%20Simulation%20%C2%B7%20Autonomous%20Driving%20%C2%B7%20Sim%20Agents&descAlignY=58&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0%3A7AA2FF%2C55%3A8C8FF5%2C100%3A78C8E8&height=165&section=header&text=NOVAICHEN&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Generative%20Simulation%20%C2%B7%20Autonomous%20Driving%20%C2%B7%20Sim%20Agents&descAlignY=58&descSize=16"
     width="100%"
     alt="NOVAICHEN"
   />
-</div>
-
-<!-- ==================== Dynamic Typing ==================== -->
-
-<div align="center">
+  <br/>
   <a href="https://github.com/Nova-chen151">
     <img
       src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2800&pause=1200&color=6C7BFF&center=true&vCenter=true&width=900&height=34&lines=Autonomous+Driving+%C2%B7+Policy+Testing;Traffic+Simulation+%C2%B7+Multi+Agents+Simulation;Generative+Model+%C2%B7+Scenario+Generation"
