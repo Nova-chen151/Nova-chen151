@@ -69,6 +69,10 @@ Me_HIDDEN_END -->
   <a href="https://nova-chen151.github.io/simCDPT.github.io/">
     <img src="https://img.shields.io/badge/Project%20Page-CDPT-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
+
+  <a href="https://mp.weixin.qq.com/s/TC0tdljXHj89xaVsvFQ4yA">
+    <img src="https://img.shields.io/badge/News-SIM%20CDPT-16A34A?style=flat-square&logo=rss&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -131,6 +135,7 @@ Me_HIDDEN_END -->
     <img src="https://img.shields.io/badge/Project%20Page-OnSite%202027-6366F1?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
+
 ---
 
 ## 🐍 Contribution Snake
