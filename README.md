@@ -47,13 +47,6 @@
   </a>
 </p>
 
-<p align="center">
-  <b>让生成场景真正成为可信的自动驾驶测试。</b><br/>
-  <sub>From generated scenes to trustworthy policy tests.</sub>
-</p>
-
-
----
 
 ## 👋 About Me
 
