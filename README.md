@@ -1,27 +1,27 @@
 <!-- ==================== Header ==================== -->
 
-<p align="center">
+<div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0%3A7AA2FF%2C55%3A8C8FF5%2C100%3A78C8E8&height=220&section=header&text=NOVAICHEN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Generative%20Simulation%20%C2%B7%20Autonomous%20Driving%20%C2%B7%20Sim%20Agents&descAlignY=58&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0%3A7AA2FF%2C55%3A8C8FF5%2C100%3A78C8E8&height=185&section=header&text=NOVAICHEN&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Generative%20Simulation%20%C2%B7%20Autonomous%20Driving%20%C2%B7%20Sim%20Agents&descAlignY=58&descSize=16"
     width="100%"
     alt="NOVAICHEN"
   />
-</p>
+</div>
 
 <!-- ==================== Dynamic Typing ==================== -->
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/Nova-chen151">
     <img
-      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&duration=2800&pause=1200&color=6C7BFF&center=true&vCenter=true&width=950&height=60&lines=From+Real-world+Videos+to+Reliable+Policy+Tests;Generative+Driving+%C2%B7+Closed-loop+Simulation;Scenario+Generation+%C2%B7+3D+Reconstruction+%C2%B7+Policy+Testing"
+      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2800&pause=1200&color=6C7BFF&center=true&vCenter=true&width=900&height=44&lines=From+Real-world+Videos+to+Reliable+Policy+Tests;Generative+Driving+%C2%B7+Closed-loop+Simulation;Scenario+Generation+%C2%B7+3D+Reconstruction+%C2%B7+Policy+Testing"
       alt="Typing SVG"
     />
   </a>
-</p>
+</div>
 
 <!-- ==================== Badges ==================== -->
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/Nova-chen151">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -45,7 +45,7 @@
   <a href="https://github.com/Nova-chen151?tab=followers">
     <img src="https://img.shields.io/github/followers/Nova-chen151?label=Followers&style=for-the-badge&color=6366F1&logo=github&logoColor=white" />
   </a>
-</p>
+</div>
 
 
 ## 👋 About Me
@@ -79,7 +79,7 @@ Yuhang Chen, Jie Sun, Jialin Fan, Jian Sun
 
 ## 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -92,9 +92,10 @@ Yuhang Chen, Jie Sun, Jialin Fan, Jian Sun
     <img
       alt="GitHub contribution grid snake animation"
       src="https://raw.githubusercontent.com/Nova-chen151/Nova-chen151/output/github-contribution-grid-snake.svg"
+      width="94%"
     />
   </picture>
-</p>
+</div>
 
 
 <!-- ONSITE_TIMELINE_HIDDEN_START
@@ -165,10 +166,10 @@ Yuhang Chen, Jie Sun, Jialin Fan, Jian Sun
 
 ONSITE_TIMELINE_HIDDEN_END -->
 
-<p align="center">
+<div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0%3A7AA2FF%2C55%3A8C8FF5%2C100%3A78C8E8&height=110&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0%3A7AA2FF%2C55%3A8C8FF5%2C100%3A78C8E8&height=70&section=footer"
     width="100%"
     alt="footer"
   />
-</p>
+</div>
