@@ -35,7 +35,7 @@
   </a>
 
   <a href="https://tops.tongji.edu.cn/">
-    <img src="https://img.shields.io/badge/Tongji%20University-TOPS-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tongji-TOPS-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
   </a>
 
   <a href="https://tops.tongji.edu.cn/info/1204/2565.htm">
