@@ -63,11 +63,7 @@
 
 ## 👋 About Me
 
-你好，我是 **Yuhang Chen（陈宇航）**，目前在 **同济大学交通运输工程学院 TOPS 交通运行与仿真课题组** 开展研究。我的研究关注 **自动驾驶场景生成、三维场景重建与闭环仿真测试**，希望让真实驾驶数据与生成模型共同服务于驾驶策略的训练、测试和改进。
-
-- 🚗 **Generative Simulation & Policy Testing**：研究生成场景的交通合理性、策略响应与测试价值。
-- 🎥 **Video-to-Interactive Scene**：探索行车视频重建、长时序场景表示与闭环测试之间的连接。
-- 🧠 **Multi-agent Behavior Modeling**：关注交通行为生成、轨迹预测与不完整观测下的轨迹重建。
+你好，我目前在 **同济大学交通运输工程学院 TOPS 交通运行与仿真课题组** 开展研究。我的研究关注 **自动驾驶场景生成、多智能体行为仿真与闭环仿真测试**，希望让真实驾驶数据与生成模型共同服务于驾驶策略的训练、测试和改进。
 
 ---
 
@@ -145,8 +141,6 @@
 **[Transferring Causal Driving Patterns for Generalizable Traffic Simulation with Diffusion-Based Distillation](https://ojs.aaai.org/index.php/AAAI/article/view/36970)**  
 Yuhang Chen, Jie Sun, Jialin Fan, Jian Sun
 
-面向跨域交通仿真的因果驾驶模式迁移与扩散蒸馏。
-
 <p>
   <a href="https://ojs.aaai.org/index.php/AAAI/article/view/36970">
     <img src="https://img.shields.io/badge/Paper-AAAI%202026-3B82F6?style=flat-square" />
@@ -180,13 +174,6 @@ Yuhang Chen, Jie Sun, Jialin Fan, Jian Sun
       src="https://raw.githubusercontent.com/Nova-chen151/Nova-chen151/output/github-contribution-grid-snake.svg"
     />
   </picture>
-</p>
-
----
-
-<p align="center">
-  <b>AI for driving scenarios, driving scenarios for AI.</b><br/>
-  <sub>AI 服务 AI · From scenario generation to trustworthy policy testing.</sub>
 </p>
 
 <p align="center">
