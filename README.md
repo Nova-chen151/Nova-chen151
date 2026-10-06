@@ -71,6 +71,8 @@ Me_HIDDEN_END -->
 
 **[Onsite 2025]**  **[第三届 Onsite 自动驾驶挑战赛联网联测实车赛 (Onsite Autonomous Vehicle Road Test Competition)](https://www.onsite.com.cn/#/dist/newsDetail?id=netNews&menuId=52&ids=356)**
 <p><a href="https://github.com/Nova-chen151/VP-AutoTest-BV-Controller"><img src="https://img.shields.io/badge/Code-VP%20Testing-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
+  <a href="https://www.onsite.com.cn/#/dist/costomPage?menuId=288"><img src="https://img.shields.io/badge/Docs-Vehicle%20Debugging-7C3AED?style=flat-square&logo=readthedocs&logoColor=white" alt="实车调试操作说明文档（同济车辆）" /></a>&nbsp;
+  <a href="https://www.onsite.com.cn/#/dist/costomPage?menuId=289"><img src="https://img.shields.io/badge/Docs-Domain%20Controller%20Practice-7C3AED?style=flat-square&logo=readthedocs&logoColor=white" alt="域控线上练习操作说明文档（官方域控）" /></a>&nbsp;
   <a href="https://www.onsite.com.cn/#/dist/newsDetail?id=netNews&menuId=52&ids=356"><img src="https://img.shields.io/badge/News-OnSite%202025-16A34A?style=flat-square&logo=rss&logoColor=white" /></a>
 </p>
 
