@@ -46,7 +46,13 @@ Me_HIDDEN_END -->
   <a href="https://github.com/Nova-chen151/Onsite_Ego_Testing"><img src="https://img.shields.io/badge/Code-Scenario%20Testing-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
   <a href="https://www.onsite.com.cn/#/dist/rankingList3"><img src="https://img.shields.io/badge/Leaderboard-OnSite%202025-2563EB?style=flat-square&logo=codeforces&logoColor=white" /></a>&nbsp;
   <a href="https://kns.cnki.net/kcms2/article/abstract?v=u5lPRpBnoljBoJvBrTdFyG0TmVUzaFi_XDHZapG10L4RSIYn1LeugYBtX-2lO4p4qpCRmMm-8gS3dGu9HtfrxTnmgldY3d1etMNULTG2ln0CW3QoDaHBBRPSYx7m5ZXigbA0pA-LFElDEgyu4mwc95IEN7CXTdEb0OMUTgdCwYLypvjKNVGH3NmKpi-77T7aoVLtTf6ralQ&uniplatform=NZKPT&captchaId=7ce3e3c0-49f8-4a23-aca5-cc369bf95704"><img src="https://img.shields.io/badge/Paper-CNKI-3B82F6?style=flat-square&logo=googlescholar&logoColor=white" /></a>&nbsp;
-  <a href="https://github.com/Nova-chen151/VP-AutoTest-BV-Controller"><img src="https://img.shields.io/badge/Code-VP%20Testing-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.onsite.com.cn/#/dist/rules3"><img src="https://img.shields.io/badge/News-OnSite%202025-16A34A?style=flat-square&logo=rss&logoColor=white" /></a>
+
+</p>
+
+**[Onsite 2025]**  **[第三届 Onsite 自动驾驶挑战赛联网联测实车赛 (Onsite Connected Vehicle Interoperability and Field Test Challenge)](https://www.onsite.com.cn/#/dist/newsDetail?id=netNews&menuId=52&ids=356)**
+<p><a href="https://github.com/Nova-chen151/VP-AutoTest-BV-Controller"><img src="https://img.shields.io/badge/Code-VP%20Testing-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
+  <a href="https://www.onsite.com.cn/#/dist/newsDetail?id=netNews&menuId=52&ids=356"><img src="https://img.shields.io/badge/News-OnSite%202025-16A34A?style=flat-square&logo=rss&logoColor=white" /></a>
 </p>
 
 **[Onsite 2026]**  **[第四届 Onsite 训测一体场景生成赛道 (Onsite Unified Train-Test Scenario Generation Track)](https://www.onsite.com.cn/#/dist/costomPage?menuId=307)**
