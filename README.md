@@ -50,7 +50,7 @@ Me_HIDDEN_END -->
 
 </p>
 
-**[Onsite 2025]**  **[第三届 Onsite 自动驾驶挑战赛联网联测实车赛 (Onsite Connected Vehicle Interoperability and Field Test Challenge)](https://www.onsite.com.cn/#/dist/newsDetail?id=netNews&menuId=52&ids=356)**
+**[Onsite 2025]**  **[第三届 Onsite 自动驾驶挑战赛联网联测实车赛 (Onsite Autonomous Vehicle Road Test Competition)](https://www.onsite.com.cn/#/dist/newsDetail?id=netNews&menuId=52&ids=356)**
 <p><a href="https://github.com/Nova-chen151/VP-AutoTest-BV-Controller"><img src="https://img.shields.io/badge/Code-VP%20Testing-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
   <a href="https://www.onsite.com.cn/#/dist/newsDetail?id=netNews&menuId=52&ids=356"><img src="https://img.shields.io/badge/News-OnSite%202025-16A34A?style=flat-square&logo=rss&logoColor=white" /></a>
 </p>
