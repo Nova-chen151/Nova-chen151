@@ -38,6 +38,25 @@ Me_HIDDEN_END -->
 ---
 
 
+## 🧩 Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎬 <a href="https://github.com/Nova-chen151/PaperASTRA">PaperASTRA</a></h3>
+      <p>Turn research papers into narrated scientific videos with source-linked claims.</p>
+      <p><a href="https://github.com/Nova-chen151/PaperASTRA"><img src="https://img.shields.io/badge/Code-PaperASTRA-181717?style=flat-square&logo=github&logoColor=white" alt="PaperASTRA code" /></a>&nbsp;<a href="https://github.com/Nova-chen151/PaperASTRA#watch-paperastra"><img src="https://img.shields.io/badge/Watch-Demo-7C3AED?style=flat-square&logo=youtube&logoColor=white" alt="Watch PaperASTRA demos" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 Templates</h3>
+      <p>Reusable LaTeX templates for Tongji course reports and journal submission cover letters.</p>
+      <p><a href="https://github.com/Nova-chen151/Tongji-report-latex"><img src="https://img.shields.io/badge/Code-Tongji%20Report-181717?style=flat-square&logo=github&logoColor=white" alt="Tongji report template" /></a>&nbsp;<a href="https://github.com/Nova-chen151/Tongji-cover_letter-latex"><img src="https://img.shields.io/badge/Code-Tongji%20Cover%20Letter-181717?style=flat-square&logo=github&logoColor=white" alt="Tongji cover letter template" /></a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ Engineering Evidence
 
 **[Onsite 2025]**  **[第三届 Onsite 场景智能生成赛道 (Onsite Scenario Intelligent Generation Track)](https://www.onsite.com.cn/#/dist/rankingList3)**
