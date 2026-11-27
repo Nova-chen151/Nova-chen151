@@ -40,9 +40,7 @@ Me_HIDDEN_END -->
 
 ## 🧩 Projects
 
-**🎬 [PaperASTRA](https://github.com/Nova-chen151/PaperASTRA)**
-
-Turn research papers into narrated scientific videos with source-linked claims.
+**🎬 [PaperASTRA](https://github.com/Nova-chen151/PaperASTRA)** — Turn research papers into narrated scientific videos with source-linked claims.
 
 <p><a href="https://github.com/Nova-chen151/PaperASTRA"><img src="https://img.shields.io/badge/Code-PaperASTRA-181717?style=flat-square&logo=github&logoColor=white" alt="PaperASTRA code" /></a>&nbsp;<a href="https://github.com/Nova-chen151/PaperASTRA#watch-paperastra"><img src="https://img.shields.io/badge/Watch-Demo-7C3AED?style=flat-square&logo=youtube&logoColor=white" alt="Watch PaperASTRA demos" /></a></p>
 
