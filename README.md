@@ -38,7 +38,8 @@ Me_HIDDEN_END -->
 **[Under Review]** **[Beyond Visual Realism: Benchmarking Generated Driving Scenarios as Policy Tests](https://nova-chen151.github.io/DriveAudit/)**
 
 <p><a href="https://github.com/Nova-chen151/DriveAudit"><img src="https://img.shields.io/badge/Code-DriveAudit-181717?style=flat-square&logo=github&logoColor=white" alt="DriveAudit code" /></a>&nbsp;
-  <a href="https://nova-chen151.github.io/DriveAudit/"><img src="https://img.shields.io/badge/Project%20Page-DriveAudit-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="DriveAudit project page" /></a></p>
+  <a href="https://nova-chen151.github.io/DriveAudit/"><img src="https://img.shields.io/badge/Project%20Page-DriveAudit-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="DriveAudit project page" /></a>&nbsp;
+  <a href="https://nova-chen151.github.io/Onsite3DSG-Benchmark.github.io/#leaderboard"><img src="https://img.shields.io/badge/Leaderboard-DriveAudit-2563EB?style=flat-square&logo=codeforces&logoColor=white" alt="DriveAudit leaderboard" /></a></p>
 
 **[Under Review]** **[TrajBridge: Future-Constrained Conditional Flow Bridge for Multi-Agent Trajectory Reconstruction in Dense Traffic](https://github.com/Nova-chen151/TrajBridge)**
 
@@ -93,7 +94,7 @@ Me_HIDDEN_END -->
 
 **[Onsite 2027]**  **[第五届 Onsite 三维场景生成赛道 (Onsite 3D Scenario Generation Track)](https://nova-chen151.github.io/Onsite3DSG-Benchmark.github.io/)**
 
-<p><a href="https://nova-chen151.github.io/Onsite3DSG-Benchmark.github.io/"><img src="https://img.shields.io/badge/Project%20Page-OnSite%202027-6366F1?style=flat-square&logo=googlechrome&logoColor=white" /></a></p>
+<p><a href="https://nova-chen151.github.io/Onsite3DSG-Benchmark.github.io/#leaderboard"><img src="https://img.shields.io/badge/Leaderboard-OnSite%202027-2563EB?style=flat-square&logo=codeforces&logoColor=white" alt="OnSite 2027 leaderboard" /></a></p>
 
 ---
 
