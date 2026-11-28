@@ -41,10 +41,6 @@ Me_HIDDEN_END -->
   <a href="https://nova-chen151.github.io/DriveAudit/"><img src="https://img.shields.io/badge/Project%20Page-DriveAudit-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="DriveAudit project page" /></a>&nbsp;
   <a href="https://nova-chen151.github.io/Onsite3DSG-Benchmark.github.io/#leaderboard"><img src="https://img.shields.io/badge/Leaderboard-DriveAudit-2563EB?style=flat-square&logo=codeforces&logoColor=white" alt="DriveAudit leaderboard" /></a></p>
 
-**[Under Review]** **[TrajBridge: Future-Constrained Conditional Flow Bridge for Multi-Agent Trajectory Reconstruction in Dense Traffic](https://github.com/Nova-chen151/TrajBridge)**
-
-<p><a href="https://github.com/Nova-chen151/TrajBridge"><img src="https://img.shields.io/badge/Code-TrajBridge-181717?style=flat-square&logo=github&logoColor=white" alt="TrajBridge code" /></a></p>
-
 **[Under Review]** **[From Realistic to Adversarial: Diverse Traffic Scenario Generation for End-to-End Autonomous Driving Testing](https://github.com/Nova-chen151/VAST-Sim)**
 
 <p><a href="https://github.com/Nova-chen151/VAST-Sim"><img src="https://img.shields.io/badge/Code-VAST--Sim-181717?style=flat-square&logo=github&logoColor=white" alt="VAST-Sim code" /></a></p>
