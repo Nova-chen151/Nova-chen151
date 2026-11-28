@@ -35,6 +35,19 @@ Me_HIDDEN_END -->
   <a href="https://tops.tongji.edu.cn/info/1225/2649.htm"><img src="https://img.shields.io/badge/News-AAAI%20Conference-16A34A?style=flat-square&logo=rss&logoColor=white" /></a>
 </p>
 
+**[Under Review]** **[Beyond Visual Realism: Benchmarking Generated Driving Scenarios as Policy Tests](https://nova-chen151.github.io/DriveAudit/)**
+
+<p><a href="https://github.com/Nova-chen151/DriveAudit"><img src="https://img.shields.io/badge/Code-DriveAudit-181717?style=flat-square&logo=github&logoColor=white" alt="DriveAudit code" /></a>&nbsp;
+  <a href="https://nova-chen151.github.io/DriveAudit/"><img src="https://img.shields.io/badge/Project%20Page-DriveAudit-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="DriveAudit project page" /></a></p>
+
+**[Under Review]** **[TrajBridge: Future-Constrained Conditional Flow Bridge for Multi-Agent Trajectory Reconstruction in Dense Traffic](https://github.com/Nova-chen151/TrajBridge)**
+
+<p><a href="https://github.com/Nova-chen151/TrajBridge"><img src="https://img.shields.io/badge/Code-TrajBridge-181717?style=flat-square&logo=github&logoColor=white" alt="TrajBridge code" /></a></p>
+
+**[Under Review]** **[From Realistic to Adversarial: Diverse Traffic Scenario Generation for End-to-End Autonomous Driving Testing](https://github.com/Nova-chen151/VAST-Sim)**
+
+<p><a href="https://github.com/Nova-chen151/VAST-Sim"><img src="https://img.shields.io/badge/Code-VAST--Sim-181717?style=flat-square&logo=github&logoColor=white" alt="VAST-Sim code" /></a></p>
+
 ---
 
 
